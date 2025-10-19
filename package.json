@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://saikiranreddy456.github.io/React-Weather-App/",
+  "homepage": "https://SaiKiranReddy456.github.io/React-Weather-App/",
   "dependencies": {
     "axios": "^1.12.2",
     "react": "^19.1.1",
